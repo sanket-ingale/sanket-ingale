@@ -1,9 +1,26 @@
-- 👋 Hi, I’m @sanket-ingale
-- 👀 I’m interested in UI/UX, Web development and Software Development 
-- 🌱 I’m currently learning ReactJS & UX
-- 📫 How to reach me, email at sanket.ingale1998@gmail.com
+# Sanket Ingale - Frontend Developer  
 
-<!---
-sanket-ingale/sanket-ingale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!  
+
+I am a Frontend Developer with over 4 years of experience in creating dynamic, scalable, and user-centric applications for web and mobile platforms. My expertise lies in technologies like **ReactJS**, **VueJS**, and **React Native**, focusing on building efficient solutions tailored to user needs.  
+
+## Skills  
+- **Core Technologies**: ReactJS, VueJS, JavaScript, GraphQL, HTML/CSS  
+- **Frameworks**: Redux, Zustand, MUI, 3JS, Chart.js, TailwindCSS  
+- **Tools**: Git, Figma, Webflow, Postman  
+
+## Highlights  
+- Developed logistics tracking and agricultural monitoring applications.  
+- Delivered AI-driven solutions and responsive portfolio designs.  
+- Built scalable frontends for ERP and academic management systems.  
+
+## Projects  
+- [Portfolio](https://sanket-ingale.github.io/portfolio): Explore my work and technical journey.  
+- [GitHub Repositories](https://github.com/sanket-ingale): Browse my contributions and projects.  
+
+## Contact  
+- **Email**: sanket.ingale1998@gmail.com  
+- **LinkedIn**: [Sanket Ingale](https://linkedin.com/in/sanket-ingale1998)  
+- **Portfolio**: [sanket-ingale.github.io](https://sanket-ingale.github.io/portfolio)  
+
+Thank you for visiting my profile. Feel free to explore my repositories and connect!
