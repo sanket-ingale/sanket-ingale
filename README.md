@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!  
 
-I am a Frontend Developer with over 4 years of experience in creating dynamic, scalable, and user-centric applications for web and mobile platforms. My expertise lies in technologies like **ReactJS**, **VueJS**, and **React Native**, focusing on building efficient solutions tailored to user needs.  
+I am a Frontend Developer with over 5+ years of experience in creating dynamic, scalable, and user-centric applications for web and mobile platforms. My expertise lies in technologies like **ReactJS**, **VueJS**, and **React Native**, focusing on building efficient solutions tailored to user needs.  
 
 ## Skills  
 - **Core Technologies**: ReactJS, VueJS, JavaScript, GraphQL, HTML/CSS  
