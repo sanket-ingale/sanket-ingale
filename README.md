@@ -15,11 +15,10 @@ I am a Frontend Developer with over 5+ years of experience in creating dynamic, 
 - Built scalable frontends for ERP and academic management systems.  
 
 ## Projects  
-- [Portfolio](https://sanket-ingale.github.io/portfolio): Explore my work and technical journey.  
+- [Portfolio](https://sanketingale.in): Explore my work and technical journey.  
 - [GitHub Repositories](https://github.com/sanket-ingale): Browse my contributions and projects.  
 
 ## Contact  
-- **Portfolio**: [sanketingale.in](https://sanketingale.in)
 - **Email**: sanket.ingale1998@gmail.com  
 - **LinkedIn**: [Sanket Ingale](https://linkedin.com/in/sanket-ingale1998)    
 
