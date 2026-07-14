@@ -19,8 +19,8 @@ I am a Frontend Developer with over 5+ years of experience in creating dynamic, 
 - [GitHub Repositories](https://github.com/sanket-ingale): Browse my contributions and projects.  
 
 ## Contact  
+- **Portfolio**: [sanketingale.in](https://sanketingale.in)
 - **Email**: sanket.ingale1998@gmail.com  
-- **LinkedIn**: [Sanket Ingale](https://linkedin.com/in/sanket-ingale1998)  
-- **Portfolio**: [sanket-ingale.github.io](https://sanket-ingale.github.io/portfolio)  
+- **LinkedIn**: [Sanket Ingale](https://linkedin.com/in/sanket-ingale1998)    
 
 Thank you for visiting my profile. Feel free to explore my repositories and connect!
